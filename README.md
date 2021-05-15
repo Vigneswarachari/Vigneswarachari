@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vigneswarachari
 - 👀 I’m interested in Full stack developer 
 - 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on developers
+
 
 
 <!---
